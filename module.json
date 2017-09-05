@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-users",
+    "name": "Users",
+    "author": "Tukecx",
+    "description": "Manage users",
+    "namespace": "Tukecx\\Base\\Users",
+    "autoload": "psr-4"
+}
